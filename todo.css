@@ -1,0 +1,20 @@
+h1 {
+    color: teal;
+    text-align: center;
+}
+.chkbx {
+    margin: 20px;
+}
+.chk {
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.chk > input {
+    border-radius: 5px;
+   
+}
+.cut {
+    cursor: pointer;
+    text-decoration: line-through;
+}
